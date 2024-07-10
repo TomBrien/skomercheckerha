@@ -1,0 +1,18 @@
+{
+  "domain": "skomer",
+  "name": "Skomer Checker",
+  "codeowners": [
+    "@tombrien"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/skomer",
+  "homekit": {},
+  "iot_class": "cloud_polling",
+  "requirements": [
+    "skomerchecker==0.0.1"
+  ],
+  "ssdp": [],
+  "version": "0.0.1",
+  "zeroconf": []
+}

@@ -1,0 +1,21 @@
+{
+    "config": {
+        "abort": {
+            "already_configured": "Device is already configured"
+        },
+        "error": {
+            "cannot_connect": "Failed to connect",
+            "invalid_auth": "Invalid authentication",
+            "unknown": "Unexpected error"
+        },
+        "step": {
+            "user": {
+                "data": {
+                    "DAYS_TO_CHECK": "Number of days to check",
+                    "MIN_AVAILABILITY": "Minimum required avalability",
+                    "ONLY_WEEKENDS": "Only Check Weekends"
+                }
+            }
+        }
+    }
+}
