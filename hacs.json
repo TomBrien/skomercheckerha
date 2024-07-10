@@ -1,6 +1,6 @@
 {
-    "name": "Cardiff Waste",
-    "homeassistant": "2021.12.0",
+    "name": "Skomer Checker",
+    "homeassistant": "2024.07.0",
     "render_readme": true,
     "country": "GB"
 }

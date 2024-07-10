@@ -26,6 +26,3 @@ For ease you can skip the first two steps using this my.home-assistant link:
 1. Go to Devices & Services in Configuration
 2. Click Add Integration and select Skomer Checker
 3. When prompted select how many days into the future you wish to check, minimum avaliability your require (i.e. the number of people in your party) and whether to check all days or only weekends. Note that since sailings only take place on Monday if it is bank holiday, Mondays are coutned as weekends.
-
-
-
