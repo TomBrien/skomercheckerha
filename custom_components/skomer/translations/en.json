@@ -12,7 +12,7 @@
             "user": {
                 "data": {
                     "DAYS_TO_CHECK": "Number of days to check",
-                    "MIN_AVAILABILITY": "Minimum required avalability",
+                    "MIN_AVAILABILITY": "Minimum required availability",
                     "ONLY_WEEKENDS": "Only Check Weekends"
                 }
             }
